@@ -1376,6 +1376,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Other Tools
 
 * [aadinternals](https://aadinternals.com/osint) - Provides tools and insights for advanced analysis and security testing of Azure Active Directory (AAD) and Microsoft 365.
+* [Anthropic Plugin Marketplace](https://docs.claude.com/en/docs/claude-code/plugin-marketplaces) - Decentralized marketplace for Claude Code plugins, providing access to custom slash commands, agents, MCP servers, and automation tools for OSINT and intelligence gathering workflows.
 * [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
 * [Belati](https://github.com/aancw/Belati) - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 * [BeVigil-CLI](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
