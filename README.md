@@ -6,7 +6,7 @@ A curated list of amazingly awesome open source intelligence tools and resources
 [Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) is intelligence collected from publicly available sources.
 In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources). 
 
-This list is to help all of those who are into Cyber Threat Intellience (CTI), threat hunting, or OSINT. From beginners to advanced. 
+This list is to help all of those who are into Cyber Threat Intelligence (CTI), threat hunting, or OSINT. From beginners to advanced. 
 
 Happy hacking and hunting 🧙‍♂️
 
